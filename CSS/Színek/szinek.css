@@ -1,3 +1,12 @@
-p {
+body p {
     color: blue;
+}
+
+/* CSS KOMMENZT */
+body p span {
+    color: green;
+}
+
+#modern {
+    color: yellow;
 }

@@ -34,4 +34,23 @@ body {
       /* view heightth képrneyko húsz ö9t szaűzaléka magarsága */
 }
 
+#szegely {
+    background-color: orange;
+    width: 40%;
+    height: 40px;
+}
+
+#vegyes {
+    background-color: aqua;
+}
+
+#felsodoboz ~ div {
+    width: 40%;
+    height: 40px;
+}
+
+#kulso_margo {
+    background-color: blue;
+}
+
 /* bordásdal gyakorlás */

@@ -82,4 +82,13 @@ body {
 #felsodoboz ~ #belso_vegyes {
     background-color: royalblue;
     height: auto;
+    /* padding: 20px 40px 60px 80px; */
+    /* padding: 20px 40px; fent lent 20px, bal job 40px SZIMMETRIA!!*/
+    /* padding: 20px 40px 60px; fel bal 20, 40 jobb, also 60,*/
+    padding: 20px 40px 60px;
+}
+
+#kozepre {
+    background-color: yellow;
+    margin: auto;
 }

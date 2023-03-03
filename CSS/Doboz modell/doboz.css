@@ -61,14 +61,25 @@ body {
     margin-left: 40px;
 }
 
-#kulso {
+#felsodoboz ~ #kulso {
     background-color: saddlebrown;
-    margin: 50px;
+    /* margin: 50px; */
+    height: auto;
 }
 
 #belso {
     background-color: hotpink;
+    margin: 10px;
 }
 
 /* bordásdal gyakorlás */
 
+#belso_margo {
+    background-color: red;
+    padding: 10px;
+}
+
+#felsodoboz ~ #belso_vegyes {
+    background-color: royalblue;
+    height: auto;
+}

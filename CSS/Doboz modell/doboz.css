@@ -45,6 +45,9 @@ body {
 
 #vegyes {
     background-color: aqua;
+    border-right: dashed black 2px;
+    border-bottom: dotted yellow 5px;
+    margin-bottom: 40px;
 }
 
 #felsodoboz ~ div {
@@ -54,6 +57,9 @@ body {
 
 #kulso_margo {
     background-color: blue;
+    margin-top: 20px;
+    margin-left: 40px;
 }
 
 /* bordásdal gyakorlás */
+

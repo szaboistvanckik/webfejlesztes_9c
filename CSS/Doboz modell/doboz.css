@@ -36,8 +36,11 @@ body {
 
 #szegely {
     background-color: orange;
-    width: 40%;
-    height: 40px;
+    /* border-style: solid;
+    border-width: 2.5px;
+    border-color: red; */
+    /* deshed dottold soli doupla */
+    border: 2.5px solid red;
 }
 
 #vegyes {

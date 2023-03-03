@@ -16,3 +16,22 @@ body {
     background-color: lightgray;
     width: 50%;
 }
+
+#zold {
+    background-color: green;
+    width: 75vw;
+    /* view width képrneyko hetven ö9t szaűzaléka */
+}
+
+#lila {
+    background-color: purple;
+    height: 100px;
+}
+
+#citrom {
+    background-color: yellow;
+    height: 20vh;
+      /* view heightth képrneyko húsz ö9t szaűzaléka magarsága */
+}
+
+/* bordásdal gyakorlás */

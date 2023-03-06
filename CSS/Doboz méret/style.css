@@ -1,0 +1,14 @@
+div {
+    background-color: yellow;
+    width: 40%;
+    height: 40px;
+    /* absoszulet hossz mertekegyseg */
+}
+
+#szegely {
+    border: 3px solid purple;
+    padding: 10px;
+    /* width: calc(40% - 26px); */
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+}

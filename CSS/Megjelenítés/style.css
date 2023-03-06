@@ -9,3 +9,14 @@ p {
     width: 40%;
     margin: 10px auto;
 }
+
+div {
+    width: 100px;
+    height: 40px;
+    background-color: lightblue;
+    border: 1px solid black
+}
+
+.tobbsoros {
+    display: block;
+}

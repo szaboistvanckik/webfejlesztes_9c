@@ -17,6 +17,11 @@ div {
     border: 1px solid black
 }
 
+
+.egysoros {
+    display: inline;
+}
+
 .tobbsoros {
     display: block;
 }

@@ -36,3 +36,8 @@ html {
     color: blue;
     font-family: monospace
 }
+
+#labsport {
+    letter-spacing: 20px;
+    letter-spacing: -1px;
+}

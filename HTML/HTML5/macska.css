@@ -145,3 +145,47 @@ nav a {
 /* 
     Vissza (nincs rajta az "osztaly"): 1 másodperc
 */
+
+@media screen and (max-width: 735px) {
+    aside {
+        float: none;
+        width: auto;
+        box-sizing: border-box;
+        margin: 0px;
+    }
+
+    body {
+        font-size: 1.5em;
+    }
+
+    nav a {
+        display: block;
+        float: none;
+        width: 100%;
+        margin: 0px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    aside {
+        display: none;
+    }
+}
+
+@media print {
+    article {
+        border: none;
+    }
+    nav {
+        display: none;
+    }
+    body {
+        font-family: serif;
+    }
+    #tetejere {
+        display: none;
+    }
+    footer {
+        display: none;
+    }
+}
